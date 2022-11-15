@@ -5,6 +5,7 @@
       "EveryTimeAdsFail_URL_OnOff" : "off",
     
       "AdsOnOff" : "on",  
+      "BannerAds_OnOff" : "on",  
       "DoubleAds_OnOff" : "on",  
       "InterAd_Interval" : "2000", 
     
