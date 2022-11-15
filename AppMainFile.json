@@ -11,6 +11,8 @@
     
       "AppVersion_Update" : "1.0",  
     
+      "Video30_and_InterAd" : "interAd",  
+    
       "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
           
